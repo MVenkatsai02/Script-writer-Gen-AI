@@ -20,7 +20,7 @@ The **AI-Powered Storytelling & Script Writing Bot** is a web application built 
 ### Installation Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/story-script-bot.git
+   git clone https://github.com/MVenkatsai02/Script-writer-Gen-AI
    cd story-script-bot
    ```
 
